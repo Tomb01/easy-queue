@@ -1,5 +1,0 @@
-.*
-src 
-node_modules
-rollup.config.json
-tsconfig.json
